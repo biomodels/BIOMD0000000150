@@ -1,3 +1,21 @@
+# BIOMD0000000150: Morris2002_CellCycle_CDK2Cyclin
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000150.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000150.git@20140916`
+
+
+# Model Notes
 
 
 Notes from the original DOCQS curator:  
@@ -12,4 +30,5 @@ Notes from BioModels DB curator:
 Although the parameters are those reported in the table I for CDK2/Cyclin A,
 the total fluorescence follows exactly the curve reported in the paper for
 CDK2/Cyclin H in figure 1B. Either the plot legend or the table is wrong.
+
 
